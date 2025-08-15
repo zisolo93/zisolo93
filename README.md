@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @zisolo93
-- 👀 I’m interested in software developer,coding,
-- 🌱 I’m currently learning ...computer science;
-- 💞️ I’m looking to collaborate on ...all programming languges;
-- 📫 How to reach me ...zisolo93@gmail.com;
+# Hi there, I'm Solo93 👋
 
-<!---
-zisolo93/zisolo93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Full Stack Developer** | 🎮 Game Development Enthusiast | 🛠 Problem Solver  
+
+I build scalable applications, intuitive user interfaces, and high-performance gaming solutions.  
+Currently working on **betting & game SDK integrations** and crafting **interactive UI experiences**.
+
+---
+
+## 🚀 About Me
+- 🔭 Currently working on: **Bet site game development, SDK integration, and high-performance APIs**
+- 🌱 Learning: **Advanced TypeScript, WebSockets, and real-time systems**
+- 💬 Ask me about: **JavaScript, React, Node.js, API integration, game mechanics**
+- ⚡ Fun fact: I can debug faster than my coffee cools down ☕  
+
+---
+
+## 🛠 Tech Stack
+**Frontend:** React, Next.js, TailwindCSS, Redux, TypeScript  
+**Backend:** Node.js, Express, NestJS, MongoDB, PostgreSQL  
+**Game Development:** HTML5 Canvas, Phaser.js, WebGL  
+**Tools:** Git, Docker, Postman, WebSocket APIs  
+
+---
+
+## 📈 GitHub Stats
+![Solo93's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zisolo93&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zisolo93&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+- **GitHub:** [github.com/zisolo93](https://github.com/zisolo93)
+- **LinkedIn:** [Hayleyesus Sisay](https://www.linkedin.com/in/hayleyesus-sisay-398673318)
+- **Portfolio:** [solo93.com](https://solo93.com)
+- **Email:** [zisolo93@email.com](mailto:zisolo93@email.com)
+
+---
+
+⭐ _"Code is like humor — when you have to explain it, it’s bad."_
