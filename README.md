@@ -24,7 +24,7 @@ Currently working on **betting & game SDK integrations** and crafting **interact
 ---
 
 ## 📈 GitHub Stats
-![Solo93's GitHub Stats](github-readme-stats-93.vercel.app)  
+![Solo93's GitHub Stats]([github-readme-stats-93.vercel.app](https://github-readme-stats-93.vercel.app))  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zisolo93&layout=compact&theme=radical)
 
 > **Note:** To make `count_private=true` work, you’ll need to generate a **GitHub Personal Access Token** with `read:user` and `repo` scope,  
